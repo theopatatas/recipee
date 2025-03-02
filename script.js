@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
       dinner: [
         {
           title: "Adobo",
-          description: "Simple dinner recipes you can make with minimal equipment.",
+          description: "Simple dinner recipes you can make.",
           image: "/placeholder.svg?height=200&width=300",
         },
         {
@@ -203,7 +203,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <img src="/placeholder.svg?height=200&width=300" alt="Adobo">
           <div class="recipe-content">
             <h3>Adobo</h3>
-            <p>Simple dinner recipes you can make with minimal equipment.</p>
+            <p>Simple dinner recipes you can make.</p>
           </div>
         </div>
       `
